@@ -1,6 +1,6 @@
 # Class Collab
 
-Class Collab is a user-friendly web application that enables users to search for classes and find professors efficiently. Built with Bootstrap for responsive design and custom CSS for a personalized touch, this project aims to streamline class and professor search functionality.
+Class Collab is a user-friendly web application that enables users to search for classes and find professors efficiently. Still in development.
 
 ## Table of Contents
 
@@ -16,7 +16,6 @@ Class Collab is a user-friendly web application that enables users to search for
 - **Search for Classes**: Quickly search for any class and access detailed information such as course descriptions, schedules, and prerequisites.
 - **Find Professors**: Look up professors, view their profiles, and read reviews from other students.
 - **Responsive Design**: Optimized for all devices, ensuring a seamless experience on mobile, tablet, and desktop.
-- **Dark Mode**: Toggle between light and dark modes for a more comfortable viewing experience in different lighting conditions.
 
 ## Installation
 
@@ -37,7 +36,6 @@ Class Collab is a user-friendly web application that enables users to search for
 
 - **Home Page**: Begin on the homepage to start searching for classes or finding professors.
 - **Navigation**: Use the navbar links to explore different sections like classes and professors.
-- **Dark Mode**: Click the "Dark Mode" button in the navbar to toggle between light and dark themes.
 
 ## Contributing
 
